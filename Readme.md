@@ -13,7 +13,7 @@ A number of RL-algos is used:
 * State-Action-Reward-State-Action (SARSA)
 
 ### Installation
-Install [keras-rl](https://github.com/matthiasplappert/keras-rl), [OpenAI Gym](https://github.com/openai/gym), seaborn (sudo pip install seaborn)
+Install [keras-rl](https://github.com/matthiasplappert/keras-rl), [OpenAI Gym](https://github.com/openai/gym), seaborn (`sudo pip install seaborn`)
 
 Then open this repo's root directory and type `sudo pip install -e .`
 
