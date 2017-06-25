@@ -12,8 +12,13 @@ A number of RL-algos is used:
 * Dueling Network DQN (DNDQN)
 * State-Action-Reward-State-Action (SARSA)
 
-See [here](https://github.com/hackthemarket/gym-trading/blob/master/gym_trading/envs/TradingEnv with keras-rl.ipynb) for more.
-
 ### Installation
-Install [keras-rl](https://github.com/matthiasplappert/keras-rl), [OpenAI Gym](https://github.com/openai/gym), seaborn (sudo pip install seaborn)
-Then open git root directory and type `sudo pip install -e .`
+Install [keras-rl](https://github.com/matthiasplappert/keras-rl), [OpenAI Gym](https://github.com/openai/gym), seaborn (`sudo pip install seaborn`)
+
+Then open this repo's root directory and type `sudo pip install -e .`
+
+### Use
+
+See [this jupyter notebook](https://github.com/ksemianov/RL-Trading/blob/master/gym_trading/envs/TradingEnv%20with%20keras-rl.ipynb) for more.
+
+
